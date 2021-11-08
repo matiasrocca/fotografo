@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    background-color: lightgoldenrodyellow;
+}
+
+#container{
+    width: 80%;
+    margin: 0px auto;
+}
+
+a{
+    margin-left: 92%;
+    color: dimgray;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+h1{
+    font-size: 40px;
+    text-align: left;
+    color: dimgray;
+    font-family: 'Cormorant Garamond', serif;
+    text-transform: uppercase;
+    border-bottom: dimgray 2px solid;
+    margin: 0% 12% 0% 11%;
+    padding-bottom: 20px;
+}
+
+img{
+    width: 30%;
+    margin: 1.4%;
+}
